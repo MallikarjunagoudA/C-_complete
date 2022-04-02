@@ -1,0 +1,16 @@
+E:\Kudvenkat tutorial\C#\Namespace1\Namespace1\obj\Debug\net5.0\Namespace1.csproj.AssemblyReference.cache
+E:\Kudvenkat tutorial\C#\Namespace1\Namespace1\obj\Debug\net5.0\Namespace1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kudvenkat tutorial\C#\Namespace1\Namespace1\obj\Debug\net5.0\Namespace1.AssemblyInfoInputs.cache
+E:\Kudvenkat tutorial\C#\Namespace1\Namespace1\obj\Debug\net5.0\Namespace1.AssemblyInfo.cs
+E:\Kudvenkat tutorial\C#\Namespace1\Namespace1\obj\Debug\net5.0\Namespace1.csproj.CoreCompileInputs.cache
+E:\Kudvenkat tutorial\C#\Namespace1\Namespace1\bin\Debug\net5.0\Namespace1.exe
+E:\Kudvenkat tutorial\C#\Namespace1\Namespace1\bin\Debug\net5.0\Namespace1.deps.json
+E:\Kudvenkat tutorial\C#\Namespace1\Namespace1\bin\Debug\net5.0\Namespace1.runtimeconfig.json
+E:\Kudvenkat tutorial\C#\Namespace1\Namespace1\bin\Debug\net5.0\Namespace1.runtimeconfig.dev.json
+E:\Kudvenkat tutorial\C#\Namespace1\Namespace1\bin\Debug\net5.0\Namespace1.dll
+E:\Kudvenkat tutorial\C#\Namespace1\Namespace1\bin\Debug\net5.0\Namespace1.pdb
+E:\Kudvenkat tutorial\C#\Namespace1\Namespace1\obj\Debug\net5.0\Namespace1.dll
+E:\Kudvenkat tutorial\C#\Namespace1\Namespace1\obj\Debug\net5.0\refint\Namespace1.dll
+E:\Kudvenkat tutorial\C#\Namespace1\Namespace1\obj\Debug\net5.0\Namespace1.pdb
+E:\Kudvenkat tutorial\C#\Namespace1\Namespace1\obj\Debug\net5.0\Namespace1.genruntimeconfig.cache
+E:\Kudvenkat tutorial\C#\Namespace1\Namespace1\obj\Debug\net5.0\ref\Namespace1.dll
