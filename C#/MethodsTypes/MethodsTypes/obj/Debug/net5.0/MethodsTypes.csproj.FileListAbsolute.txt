@@ -1,0 +1,16 @@
+E:\Kudvenkat tutorial\C#\MethodsTypes\MethodsTypes\bin\Debug\net5.0\MethodsTypes.exe
+E:\Kudvenkat tutorial\C#\MethodsTypes\MethodsTypes\bin\Debug\net5.0\MethodsTypes.deps.json
+E:\Kudvenkat tutorial\C#\MethodsTypes\MethodsTypes\bin\Debug\net5.0\MethodsTypes.runtimeconfig.json
+E:\Kudvenkat tutorial\C#\MethodsTypes\MethodsTypes\bin\Debug\net5.0\MethodsTypes.runtimeconfig.dev.json
+E:\Kudvenkat tutorial\C#\MethodsTypes\MethodsTypes\bin\Debug\net5.0\MethodsTypes.dll
+E:\Kudvenkat tutorial\C#\MethodsTypes\MethodsTypes\bin\Debug\net5.0\MethodsTypes.pdb
+E:\Kudvenkat tutorial\C#\MethodsTypes\MethodsTypes\obj\Debug\net5.0\MethodsTypes.csproj.AssemblyReference.cache
+E:\Kudvenkat tutorial\C#\MethodsTypes\MethodsTypes\obj\Debug\net5.0\MethodsTypes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kudvenkat tutorial\C#\MethodsTypes\MethodsTypes\obj\Debug\net5.0\MethodsTypes.AssemblyInfoInputs.cache
+E:\Kudvenkat tutorial\C#\MethodsTypes\MethodsTypes\obj\Debug\net5.0\MethodsTypes.AssemblyInfo.cs
+E:\Kudvenkat tutorial\C#\MethodsTypes\MethodsTypes\obj\Debug\net5.0\MethodsTypes.csproj.CoreCompileInputs.cache
+E:\Kudvenkat tutorial\C#\MethodsTypes\MethodsTypes\obj\Debug\net5.0\MethodsTypes.dll
+E:\Kudvenkat tutorial\C#\MethodsTypes\MethodsTypes\obj\Debug\net5.0\refint\MethodsTypes.dll
+E:\Kudvenkat tutorial\C#\MethodsTypes\MethodsTypes\obj\Debug\net5.0\MethodsTypes.pdb
+E:\Kudvenkat tutorial\C#\MethodsTypes\MethodsTypes\obj\Debug\net5.0\MethodsTypes.genruntimeconfig.cache
+E:\Kudvenkat tutorial\C#\MethodsTypes\MethodsTypes\obj\Debug\net5.0\ref\MethodsTypes.dll
