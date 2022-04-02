@@ -1,0 +1,16 @@
+E:\Kudvenkat tutorial\C#\Conversion\Conversion\bin\Debug\net5.0\Conversion.exe
+E:\Kudvenkat tutorial\C#\Conversion\Conversion\bin\Debug\net5.0\Conversion.deps.json
+E:\Kudvenkat tutorial\C#\Conversion\Conversion\bin\Debug\net5.0\Conversion.runtimeconfig.json
+E:\Kudvenkat tutorial\C#\Conversion\Conversion\bin\Debug\net5.0\Conversion.runtimeconfig.dev.json
+E:\Kudvenkat tutorial\C#\Conversion\Conversion\bin\Debug\net5.0\Conversion.dll
+E:\Kudvenkat tutorial\C#\Conversion\Conversion\bin\Debug\net5.0\Conversion.pdb
+E:\Kudvenkat tutorial\C#\Conversion\Conversion\obj\Debug\net5.0\Conversion.csproj.AssemblyReference.cache
+E:\Kudvenkat tutorial\C#\Conversion\Conversion\obj\Debug\net5.0\Conversion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kudvenkat tutorial\C#\Conversion\Conversion\obj\Debug\net5.0\Conversion.AssemblyInfoInputs.cache
+E:\Kudvenkat tutorial\C#\Conversion\Conversion\obj\Debug\net5.0\Conversion.AssemblyInfo.cs
+E:\Kudvenkat tutorial\C#\Conversion\Conversion\obj\Debug\net5.0\Conversion.csproj.CoreCompileInputs.cache
+E:\Kudvenkat tutorial\C#\Conversion\Conversion\obj\Debug\net5.0\Conversion.dll
+E:\Kudvenkat tutorial\C#\Conversion\Conversion\obj\Debug\net5.0\refint\Conversion.dll
+E:\Kudvenkat tutorial\C#\Conversion\Conversion\obj\Debug\net5.0\Conversion.pdb
+E:\Kudvenkat tutorial\C#\Conversion\Conversion\obj\Debug\net5.0\Conversion.genruntimeconfig.cache
+E:\Kudvenkat tutorial\C#\Conversion\Conversion\obj\Debug\net5.0\ref\Conversion.dll
