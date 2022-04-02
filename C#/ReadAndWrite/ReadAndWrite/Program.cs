@@ -18,6 +18,9 @@
         //placeHolder operation
         Console.WriteLine("welcome dear {0}", name);
 
+        //escape character \,\b,\t\,\v,\a,\n
+        string a = "\ahello";
+        Console.WriteLine(a);
 
         }
     }

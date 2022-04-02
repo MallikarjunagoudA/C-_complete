@@ -1,0 +1,16 @@
+E:\Kudvenkat tutorial\C#\ReadAndWrite\ReadAndWrite\bin\Debug\net5.0\ReadAndWrite.exe
+E:\Kudvenkat tutorial\C#\ReadAndWrite\ReadAndWrite\bin\Debug\net5.0\ReadAndWrite.deps.json
+E:\Kudvenkat tutorial\C#\ReadAndWrite\ReadAndWrite\bin\Debug\net5.0\ReadAndWrite.runtimeconfig.json
+E:\Kudvenkat tutorial\C#\ReadAndWrite\ReadAndWrite\bin\Debug\net5.0\ReadAndWrite.runtimeconfig.dev.json
+E:\Kudvenkat tutorial\C#\ReadAndWrite\ReadAndWrite\bin\Debug\net5.0\ReadAndWrite.dll
+E:\Kudvenkat tutorial\C#\ReadAndWrite\ReadAndWrite\bin\Debug\net5.0\ReadAndWrite.pdb
+E:\Kudvenkat tutorial\C#\ReadAndWrite\ReadAndWrite\obj\Debug\net5.0\ReadAndWrite.csproj.AssemblyReference.cache
+E:\Kudvenkat tutorial\C#\ReadAndWrite\ReadAndWrite\obj\Debug\net5.0\ReadAndWrite.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kudvenkat tutorial\C#\ReadAndWrite\ReadAndWrite\obj\Debug\net5.0\ReadAndWrite.AssemblyInfoInputs.cache
+E:\Kudvenkat tutorial\C#\ReadAndWrite\ReadAndWrite\obj\Debug\net5.0\ReadAndWrite.AssemblyInfo.cs
+E:\Kudvenkat tutorial\C#\ReadAndWrite\ReadAndWrite\obj\Debug\net5.0\ReadAndWrite.csproj.CoreCompileInputs.cache
+E:\Kudvenkat tutorial\C#\ReadAndWrite\ReadAndWrite\obj\Debug\net5.0\ReadAndWrite.dll
+E:\Kudvenkat tutorial\C#\ReadAndWrite\ReadAndWrite\obj\Debug\net5.0\refint\ReadAndWrite.dll
+E:\Kudvenkat tutorial\C#\ReadAndWrite\ReadAndWrite\obj\Debug\net5.0\ReadAndWrite.pdb
+E:\Kudvenkat tutorial\C#\ReadAndWrite\ReadAndWrite\obj\Debug\net5.0\ReadAndWrite.genruntimeconfig.cache
+E:\Kudvenkat tutorial\C#\ReadAndWrite\ReadAndWrite\obj\Debug\net5.0\ref\ReadAndWrite.dll
