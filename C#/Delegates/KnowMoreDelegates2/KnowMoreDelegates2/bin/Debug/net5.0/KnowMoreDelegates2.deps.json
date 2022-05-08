@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "KnowMoreDelegates2/1.0.0": {
+        "runtime": {
+          "KnowMoreDelegates2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KnowMoreDelegates2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
