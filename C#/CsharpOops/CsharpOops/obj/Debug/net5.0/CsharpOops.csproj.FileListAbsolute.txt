@@ -1,0 +1,16 @@
+E:\Kudvenkat tutorial\C#\CsharpOops\CsharpOops\bin\Debug\net5.0\CsharpOops.exe
+E:\Kudvenkat tutorial\C#\CsharpOops\CsharpOops\bin\Debug\net5.0\CsharpOops.deps.json
+E:\Kudvenkat tutorial\C#\CsharpOops\CsharpOops\bin\Debug\net5.0\CsharpOops.runtimeconfig.json
+E:\Kudvenkat tutorial\C#\CsharpOops\CsharpOops\bin\Debug\net5.0\CsharpOops.runtimeconfig.dev.json
+E:\Kudvenkat tutorial\C#\CsharpOops\CsharpOops\bin\Debug\net5.0\CsharpOops.dll
+E:\Kudvenkat tutorial\C#\CsharpOops\CsharpOops\bin\Debug\net5.0\CsharpOops.pdb
+E:\Kudvenkat tutorial\C#\CsharpOops\CsharpOops\obj\Debug\net5.0\CsharpOops.csproj.AssemblyReference.cache
+E:\Kudvenkat tutorial\C#\CsharpOops\CsharpOops\obj\Debug\net5.0\CsharpOops.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kudvenkat tutorial\C#\CsharpOops\CsharpOops\obj\Debug\net5.0\CsharpOops.AssemblyInfoInputs.cache
+E:\Kudvenkat tutorial\C#\CsharpOops\CsharpOops\obj\Debug\net5.0\CsharpOops.AssemblyInfo.cs
+E:\Kudvenkat tutorial\C#\CsharpOops\CsharpOops\obj\Debug\net5.0\CsharpOops.csproj.CoreCompileInputs.cache
+E:\Kudvenkat tutorial\C#\CsharpOops\CsharpOops\obj\Debug\net5.0\CsharpOops.dll
+E:\Kudvenkat tutorial\C#\CsharpOops\CsharpOops\obj\Debug\net5.0\refint\CsharpOops.dll
+E:\Kudvenkat tutorial\C#\CsharpOops\CsharpOops\obj\Debug\net5.0\CsharpOops.pdb
+E:\Kudvenkat tutorial\C#\CsharpOops\CsharpOops\obj\Debug\net5.0\CsharpOops.genruntimeconfig.cache
+E:\Kudvenkat tutorial\C#\CsharpOops\CsharpOops\obj\Debug\net5.0\ref\CsharpOops.dll

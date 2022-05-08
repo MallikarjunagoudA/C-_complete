@@ -1,0 +1,16 @@
+E:\Kudvenkat tutorial\C#\Delegates\KnowMoreDelegates\KnowMoreDelegates\bin\Debug\net5.0\KnowMoreDelegates.exe
+E:\Kudvenkat tutorial\C#\Delegates\KnowMoreDelegates\KnowMoreDelegates\bin\Debug\net5.0\KnowMoreDelegates.deps.json
+E:\Kudvenkat tutorial\C#\Delegates\KnowMoreDelegates\KnowMoreDelegates\bin\Debug\net5.0\KnowMoreDelegates.runtimeconfig.json
+E:\Kudvenkat tutorial\C#\Delegates\KnowMoreDelegates\KnowMoreDelegates\bin\Debug\net5.0\KnowMoreDelegates.runtimeconfig.dev.json
+E:\Kudvenkat tutorial\C#\Delegates\KnowMoreDelegates\KnowMoreDelegates\bin\Debug\net5.0\KnowMoreDelegates.dll
+E:\Kudvenkat tutorial\C#\Delegates\KnowMoreDelegates\KnowMoreDelegates\bin\Debug\net5.0\KnowMoreDelegates.pdb
+E:\Kudvenkat tutorial\C#\Delegates\KnowMoreDelegates\KnowMoreDelegates\obj\Debug\net5.0\KnowMoreDelegates.csproj.AssemblyReference.cache
+E:\Kudvenkat tutorial\C#\Delegates\KnowMoreDelegates\KnowMoreDelegates\obj\Debug\net5.0\KnowMoreDelegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kudvenkat tutorial\C#\Delegates\KnowMoreDelegates\KnowMoreDelegates\obj\Debug\net5.0\KnowMoreDelegates.AssemblyInfoInputs.cache
+E:\Kudvenkat tutorial\C#\Delegates\KnowMoreDelegates\KnowMoreDelegates\obj\Debug\net5.0\KnowMoreDelegates.AssemblyInfo.cs
+E:\Kudvenkat tutorial\C#\Delegates\KnowMoreDelegates\KnowMoreDelegates\obj\Debug\net5.0\KnowMoreDelegates.csproj.CoreCompileInputs.cache
+E:\Kudvenkat tutorial\C#\Delegates\KnowMoreDelegates\KnowMoreDelegates\obj\Debug\net5.0\KnowMoreDelegates.dll
+E:\Kudvenkat tutorial\C#\Delegates\KnowMoreDelegates\KnowMoreDelegates\obj\Debug\net5.0\refint\KnowMoreDelegates.dll
+E:\Kudvenkat tutorial\C#\Delegates\KnowMoreDelegates\KnowMoreDelegates\obj\Debug\net5.0\KnowMoreDelegates.pdb
+E:\Kudvenkat tutorial\C#\Delegates\KnowMoreDelegates\KnowMoreDelegates\obj\Debug\net5.0\KnowMoreDelegates.genruntimeconfig.cache
+E:\Kudvenkat tutorial\C#\Delegates\KnowMoreDelegates\KnowMoreDelegates\obj\Debug\net5.0\ref\KnowMoreDelegates.dll

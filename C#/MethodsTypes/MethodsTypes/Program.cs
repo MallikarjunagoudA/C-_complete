@@ -65,6 +65,12 @@ namespace MethodsTypes
             //parameterArray(2, arr);
             parameterArray(4, 11, 22, 33, 44, 5);
 
+
+            int tt = 10;
+            int mm = 20;  
+            Console.WriteLine("tt and mm is : {0}", tt +" "+mm);
+            tt = 90;
+            Console.WriteLine("after changing tt the tt and mm is : {0}", tt + " " + mm);
             Console.WriteLine("Hello World!");
         }
     }
