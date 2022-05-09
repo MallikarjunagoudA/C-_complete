@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "KTOverRideEqaulMethod/1.0.0": {
+        "runtime": {
+          "KTOverRideEqaulMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KTOverRideEqaulMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
