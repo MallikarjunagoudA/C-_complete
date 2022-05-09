@@ -1,0 +1,16 @@
+E:\Kudvenkat tutorial\C#\Exception Handle\KnowMoreExceptionHandle\KnowMoreExceptionHandle\bin\Debug\net5.0\KnowMoreExceptionHandle.exe
+E:\Kudvenkat tutorial\C#\Exception Handle\KnowMoreExceptionHandle\KnowMoreExceptionHandle\bin\Debug\net5.0\KnowMoreExceptionHandle.deps.json
+E:\Kudvenkat tutorial\C#\Exception Handle\KnowMoreExceptionHandle\KnowMoreExceptionHandle\bin\Debug\net5.0\KnowMoreExceptionHandle.runtimeconfig.json
+E:\Kudvenkat tutorial\C#\Exception Handle\KnowMoreExceptionHandle\KnowMoreExceptionHandle\bin\Debug\net5.0\KnowMoreExceptionHandle.runtimeconfig.dev.json
+E:\Kudvenkat tutorial\C#\Exception Handle\KnowMoreExceptionHandle\KnowMoreExceptionHandle\bin\Debug\net5.0\KnowMoreExceptionHandle.dll
+E:\Kudvenkat tutorial\C#\Exception Handle\KnowMoreExceptionHandle\KnowMoreExceptionHandle\bin\Debug\net5.0\KnowMoreExceptionHandle.pdb
+E:\Kudvenkat tutorial\C#\Exception Handle\KnowMoreExceptionHandle\KnowMoreExceptionHandle\obj\Debug\net5.0\KnowMoreExceptionHandle.csproj.AssemblyReference.cache
+E:\Kudvenkat tutorial\C#\Exception Handle\KnowMoreExceptionHandle\KnowMoreExceptionHandle\obj\Debug\net5.0\KnowMoreExceptionHandle.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kudvenkat tutorial\C#\Exception Handle\KnowMoreExceptionHandle\KnowMoreExceptionHandle\obj\Debug\net5.0\KnowMoreExceptionHandle.AssemblyInfoInputs.cache
+E:\Kudvenkat tutorial\C#\Exception Handle\KnowMoreExceptionHandle\KnowMoreExceptionHandle\obj\Debug\net5.0\KnowMoreExceptionHandle.AssemblyInfo.cs
+E:\Kudvenkat tutorial\C#\Exception Handle\KnowMoreExceptionHandle\KnowMoreExceptionHandle\obj\Debug\net5.0\KnowMoreExceptionHandle.csproj.CoreCompileInputs.cache
+E:\Kudvenkat tutorial\C#\Exception Handle\KnowMoreExceptionHandle\KnowMoreExceptionHandle\obj\Debug\net5.0\KnowMoreExceptionHandle.dll
+E:\Kudvenkat tutorial\C#\Exception Handle\KnowMoreExceptionHandle\KnowMoreExceptionHandle\obj\Debug\net5.0\refint\KnowMoreExceptionHandle.dll
+E:\Kudvenkat tutorial\C#\Exception Handle\KnowMoreExceptionHandle\KnowMoreExceptionHandle\obj\Debug\net5.0\KnowMoreExceptionHandle.pdb
+E:\Kudvenkat tutorial\C#\Exception Handle\KnowMoreExceptionHandle\KnowMoreExceptionHandle\obj\Debug\net5.0\KnowMoreExceptionHandle.genruntimeconfig.cache
+E:\Kudvenkat tutorial\C#\Exception Handle\KnowMoreExceptionHandle\KnowMoreExceptionHandle\obj\Debug\net5.0\ref\KnowMoreExceptionHandle.dll
