@@ -171,6 +171,33 @@ namespace KTGenericList
 
             cust.Clear();
 
+
+
+
+            //sort() 
+            List<int> numbers = new List<int>() { 2, 6, 5, 3, 8, 9, 0, 1 };
+
+            numbers.Sort();
+
+            //reverse()
+            numbers.Reverse();
+
+            //sort for complex type
+            //cust.sort() not possible until expicitly use compareTo
+
+            cust.Sort();
+
+            //trueForAll()
+
+            cust.TrueForAll(c => c.custName.Contains("ru"));
+
+            //AsReadOnly()
+
+            cust.AsReadOnly();
+
+            //trimExcess();
+
+            cust.TrimExcess();
             //jai Hind
 
 
@@ -191,6 +218,11 @@ namespace KTGenericList
 
         public int custID { get; set; }
         public string custName { get; set; }
+
+        public int compareTo(Customer obj)
+        {
+            return this.custID.CompareTo(obj.custID);
+        }
 
     }
 }
